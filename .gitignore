@@ -1,0 +1,7 @@
+.vs
+Properties/
+bin/
+testC#-API.http/
+appsettings.Development.json/
+testC#-API.csproj.user/
+obj/
